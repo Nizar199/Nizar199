@@ -9,8 +9,13 @@
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate With web Developpers
 - 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nizar199)](https://github.com/anuraghazra/github-readme-stats)
-  
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nizar199&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarnizar199&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>  
  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 <h3 align="left">Languages and Tools:</h3>
