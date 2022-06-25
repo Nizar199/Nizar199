@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - <h1 align="center">Hi 👋, I'm Nizar</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate Web developer from Tunisia</h3>
 
 - 💬 Ask me about **html,Css and javaScript**
 - 📫 How to reach me **elfekihnizar7@gmail.com**
