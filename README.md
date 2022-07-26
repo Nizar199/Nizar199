@@ -9,7 +9,7 @@
 - 👀 I’m interested on Software Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate With web Developpers
-- 
+- <a href="https://app.daily.dev/NizarFekih"><img src="https://api.daily.dev/devcards/a86948c918d440c39305c3ae49e7b783.png?r=qre" width="400" alt="Nizar's Dev Card"/></a>
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nizarfkih&theme=tokyonight_duo" alt="nizar199" /></p>
   <br/>
