@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate With web Developpers
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NizarFkih&theme=tokyonight_duo" alt="nizar1997" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nizarfkih&theme=tokyonight_duo" alt="nizar1997" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
