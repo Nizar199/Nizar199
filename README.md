@@ -10,9 +10,8 @@
 - 💞️ I’m looking to collaborate With web Developpers
 
 ## 📊 Github Stats
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=NizarFkih)](https://github.com/LordDashMe/github-contribution-stats/)
 <span align="right"><a href="https://app.daily.dev/NizarFekih"><img src="https://api.daily.dev/devcards/a86948c918d440c39305c3ae49e7b783.png?r=qre" width="350" alt="Nizar's Dev Card"/></a></span>
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=NizarFkih)](https://github.com/LordDashMe/github-contribution-stats/)
   <br/>
  
 <h3 align="left">Languages and Tools:</h3>
