@@ -12,7 +12,6 @@
 ## 📊 Github Stats
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=NizarFkih)](https://github.com/LordDashMe/github-contribution-stats/)
   <br/>
-
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -30,9 +29,11 @@
     <img src="https://skillicons.dev/icons?i=eclipse,vscode,androidstudio" />
 </a>
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/nizar199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nizarFkih" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nizar el fekih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nizar el fekih" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nizarfkih/">
+    <img src="https://skillicons.dev/icons?i=linkdin" />
+  </a>>
 </p>
 <a href="https://app.daily.dev/NizarFekih"><img src="https://api.daily.dev/devcards/a86948c918d440c39305c3ae49e7b783.png?r=qre" width="400" alt="Nizar's Dev Card"/></a>
