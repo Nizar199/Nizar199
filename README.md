@@ -12,8 +12,7 @@
 
 ## 📊 Github Stats
 <p align="center">
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NizarFkih)  
-   ![GitHub streak stats](https://streak-stats.demolab.com/?user=NizarFkih)  ></p>
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=NizarFkih)](https://github.com/LordDashMe/github-contribution-stats/)
   <br/>
 
  
