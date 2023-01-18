@@ -14,9 +14,8 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NizarFkih&theme=tokyonight_duo" alt="nizar1997" /></p>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="nizarFkih's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nizarFkih&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=NizarFkih) 
+</p>	  
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
