@@ -12,7 +12,7 @@
 
 ## 📊 Github Stats
 <p align="center">
-   <img align="right" src="https://github-contribution-stats.vercel.app/api/?username=NizarFkih)](https://github.com/LordDashMe/github-contribution-stats/"/>
+   <img align="right" src="https://github-contribution-stats.vercel.app/api/?username=NizarFkih)](https://github.com/LordDashMe/github-contribution-stats"/>
   <br/>
 
  
