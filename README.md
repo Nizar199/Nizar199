@@ -20,19 +20,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,laravel,mysqlwordpress,github,gitlab,git,java,cs,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,bootstrap,laravel,mysql,wordpress,github,gitlab,git,java,cs,py,eclipse,vscode,androidstudio" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,androidstudio" />
-  </a>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
