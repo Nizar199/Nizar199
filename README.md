@@ -11,11 +11,12 @@
 - 💞️ I’m looking to collaborate With web Developpers
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NizarFkih&theme=tokyonight_duo" alt="nizar1997" /></p>
+<p align="center">
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NizarFkih)  
+   ![GitHub streak stats](https://streak-stats.demolab.com/?user=NizarFkih)  ></p>
   <br/>
-  <p align="center">
-![GitHub streak stats](https://streak-stats.demolab.com/?user=NizarFkih) 
-</p>	  
+
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
