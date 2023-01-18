@@ -34,6 +34,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nizarfkih/">
     <img src="https://skillicons.dev/icons?i=linkdin" />
-  </a>>
+  </a>
 </p>
 <a href="https://app.daily.dev/NizarFekih"><img src="https://api.daily.dev/devcards/a86948c918d440c39305c3ae49e7b783.png?r=qre" width="400" alt="Nizar's Dev Card"/></a>
