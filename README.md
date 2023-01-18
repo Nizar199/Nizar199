@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- <h1 align="center">Hi 👋, I'm Nizar</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Full+Stack+Web+Developer" alt="Typing SVG" /></a>   <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+- <h1 align="center">Hi 👋, I'm Nizar <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Full+Stack+Web+Developer" alt="Typing SVG" /></a></h1>
+
 
 - 💬 Ask me about **html,Css and javaScript**
 - 📫 How to reach me **elfekihnizar7@gmail.com**
