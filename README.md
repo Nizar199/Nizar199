@@ -11,8 +11,7 @@
 - 💞️ I’m looking to collaborate With web Developpers
 
 ## 📊 Github Stats
-<p align="center">
-   <img align="right" src="https://github-contribution-stats.vercel.app/api/?username=NizarFkih)](https://github.com/LordDashMe/github-contribution-stats"/>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
   <br/>
 
  
