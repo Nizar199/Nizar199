@@ -9,12 +9,8 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NizarFkih&theme=dark&hide_border=false)<br/>
-<span align="right"><a href="https://app.daily.dev/NizarFekih"><img src="https://api.daily.dev/devcards/a86948c918d440c39305c3ae49e7b783.png?r=qre" width="350" alt="Nizar's Dev Card"/></a></span>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=NizarFkih&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <br/>
  
 <h3 align="left">Languages and Tools:</h3>
