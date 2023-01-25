@@ -9,9 +9,6 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NizarFkih&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-s.vercel.app/api?username=NizarFkih&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NizarFkih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <span align="right"><a href="https://app.daily.dev/NizarFekih"><img src="https://api.daily.dev/devcards/a86948c918d440c39305c3ae49e7b783.png?r=qre" width="350" alt="Nizar's Dev Card"/></a></span>
 
 ---
