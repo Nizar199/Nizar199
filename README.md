@@ -7,13 +7,19 @@
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate With web Developpers
 
-## 📊 Github Stats
-<span align="right"><a href="https://app.daily.dev/NizarFekih"><img src="https://api.daily.dev/devcards/a86948c918d440c39305c3ae49e7b783.png?r=qre" width="350" alt="Nizar's Dev Card"/></a></span>
-
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NizarFkih&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NizarFkih&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NizarFkih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+<span align="right"><a href="https://app.daily.dev/NizarFekih"><img src="https://api.daily.dev/devcards/a86948c918d440c39305c3ae49e7b783.png?r=qre" width="350" alt="Nizar's Dev Card"/></a></span>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NizarFkih&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <br/>
  
 <h3 align="left">Languages and Tools:</h3>
