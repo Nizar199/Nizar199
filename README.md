@@ -8,7 +8,8 @@
 - 💞️ I’m looking to collaborate With web Developpers
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=NizarFkih&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NizarFkih&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NizarFkih)](https://git.io/streak-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=NizarFkih&icon=0&color=0)](https://visitcount.itsvg.in)
   <br/>
