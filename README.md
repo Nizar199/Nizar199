@@ -9,6 +9,7 @@
 
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NizarFkih)](https://git.io/streak-stats)
+[![](https://visitcount.itsvg.in/api?id=NizarFkih&icon=0&color=0)](https://visitcount.itsvg.in)
 <br/>
 ---
 
@@ -37,4 +38,4 @@
      <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-[![](https://visitcount.itsvg.in/api?id=NizarFkih&icon=0&color=0)](https://visitcount.itsvg.in)
+
