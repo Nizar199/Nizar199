@@ -8,11 +8,9 @@
 - 💞️ I’m looking to collaborate With web Developpers
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nizarfkih&show_icons=true&locale=en" alt="nizarfkih" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizarfkih&" alt="nizarfkih" /></p>
-[![](https://visitcount.itsvg.in/api?id=NizarFkih&icon=0&color=0)](https://visitcount.itsvg.in)
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nizarfkih&show_icons=true&locale=en" alt="nizarfkih" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizarfkih&" alt="nizarfkih" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nizarfkih&label=Profile%20views&color=0e75b6&style=flat" alt="nizarfkih" /> </p><br/>
 ---
 
   <br/>
