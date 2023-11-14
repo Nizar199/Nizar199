@@ -5,7 +5,7 @@
 - 📫 How to reach me **elfekihnizar7@gmail.com**
 - 👀 I’m interested on Software Development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate With web Developpers
+- 💞️ I’m looking to collaborate With web Developers and am open to a job offer.
 ## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizarfkih&" alt="nizarfkih" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizarfkih&label=Profile%20views&color=0e75b6&style=flat" alt="nizarfkih" /> </p><br/>
